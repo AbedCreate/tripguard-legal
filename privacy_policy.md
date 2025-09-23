@@ -2,7 +2,7 @@
 
 _Last Updated: September 23, 2025_
 
-TripGuard (“we”, “our”, “us”) is committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, share, and safeguard information when you use the TripGuard mobile application (the “App”).
+TripGuard Security Innovations Ltd. (“we”, “our”, “us”) is committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, share, and safeguard information when you use the TripGuard mobile application (the “App”).
 
 ---
 
@@ -71,5 +71,5 @@ We may update this Privacy Policy from time to time. Material changes will be co
 ## 9. Contact Us
 If you have questions, concerns, or complaints, please contact:
 
-**TripGuard Support**  
-Email:tripguardapp@gmail.com
+**TripGuard Security Innovations Ltd.**  
+Email: tripguardapp@gmail.com
