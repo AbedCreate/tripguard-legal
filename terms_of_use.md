@@ -110,5 +110,3 @@ If you have questions about these Terms or your rights:
 
 TripGuard Intel & Transit Ltd.
 Email: tripguardapp@gmail.com
-
-If you need the Privacy Policy revi
