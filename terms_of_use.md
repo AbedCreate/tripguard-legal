@@ -1,185 +1,229 @@
 Terms of Use for TripGuard
 
-Last Updated: September 23, 2025
+Last Updated: February 25, 2026
 
-Welcome to TripGuard. By downloading, accessing, or using the TripGuard mobile application (the “App”), you agree to these Terms of Use (“Terms”). These Terms form a legally binding agreement between you and TripGuard Intel & Transit Ltd. Please read them carefully.
+Welcome to TripGuard.
 
-TripGuard exists for one core purpose: to make roads and transportation safer for everyone through community-driven safety reporting. Every feature, policy, and guideline in this document is built around that purpose.
+These Terms of Use (“Terms”) govern your access to and use of the TripGuard mobile application (the “App”).
+
+TripGuard is owned and operated by ThirdTap Technologies Limited, a company incorporated under the laws of the Republic of Ghana.
+
+By downloading, accessing, or using the App, you agree to be legally bound by these Terms. If you do not agree, you must not use the App.
+
+TripGuard exists to promote safer roads and transportation experiences through responsible, community-driven safety reporting.
 
 1. Eligibility
 
-You must be at least 18 years old to register as a driver.
+You must be at least 13 years old to create an account and submit reports.
 
-Riders under 18 must use the App under parental or guardian supervision.
+If you are under 13, you may only use the App under parental or legal guardian supervision.
+
+By using the App, you represent that you meet these requirements.
 
 2. User Accounts
 
-You are responsible for securing your login credentials.
+You are responsible for:
 
-You must provide accurate, truthful, and up-to-date information.
+Maintaining the confidentiality of your login credentials
 
-TripGuard Intel & Transit Ltd. may suspend or terminate accounts that violate these Terms or present safety risks.
+Providing accurate and truthful information
+
+Updating your details when necessary
+
+ThirdTap Technologies Limited reserves the right to suspend or terminate accounts that:
+
+Violate these Terms
+
+Engage in misuse of reporting tools
+
+Present safety, legal, or reputational risks to the platform
 
 3. Acceptable Use
 
-Users must not:
+You agree not to:
 
-Use TripGuard for unlawful, fraudulent, or harmful purposes.
+Use TripGuard for unlawful, fraudulent, or harmful purposes
 
-Submit false, misleading, edited, or malicious reports.
+Submit false, misleading, altered, exaggerated, or malicious reports
 
-Harass, threaten, impersonate, or intimidate others.
+Harass, threaten, impersonate, or intimidate others
 
-Interfere with the stability, security, or proper functioning of the App.
+Interfere with the security or stability of the App
 
-By using TripGuard, you agree to use all safety, caution, and reporting tools responsibly, truthfully, and in good faith in support of our shared mission of safer roads.
+Attempt to manipulate reports or platform functionality
 
-4. Driver & Rider Responsibilities
+All safety and reporting tools must be used responsibly, truthfully, and in good faith.
 
-Drivers must provide correct information about their identity and vehicles.
+4. Nature of the Platform
 
-Riders must use all safety and reporting tools honestly and avoid fabricating incidents.
+TripGuard is a community-reporting platform.
 
-All cautions, alerts, and safety insights on the App are generated solely from verified community reports.
+TripGuard:
 
-TripGuard Intel & Transit Ltd.:
+Does not independently verify every report
 
-Does not independently verify every report submitted by users.
+Does not investigate incidents
 
-Does not guarantee the accuracy, completeness, or outcome of any community-generated report.
+Does not guarantee the accuracy of user-submitted content
 
-Provides the platform as an additional safety tool — not as a replacement for personal judgment or official law enforcement systems.
+Does not make determinations of guilt or wrongdoing
 
-5. Data Visibility, Lookup, & Consent
+All reports displayed on the App are user-generated submissions.
+
+TripGuard acts solely as a passive technology platform that allows verified users to submit and view reports.
+
+TripGuard is not a publisher of user content and does not adopt, endorse, or validate user statements.
+
+5. Data Visibility, Lookup & Consent
 
 By creating an account, you expressly consent to the following:
 
 5.1 Safety Lookups
 
-Verified TripGuard users may look up:
+Verified users may search:
 
-Driver plates
+Vehicle plate numbers
 
 Phone numbers
 
-Other identifiers linked to previously reported safety incidents
+Other identifiers voluntarily submitted in connection with incident reports
 
-TripGuard uses this mechanism strictly to promote safety and responsible travel.
+This functionality exists solely to promote safety awareness.
 
 5.2 Limited Data Display
 
 TripGuard:
 
-Does NOT display your identity, profile, or personal data publicly.
+Does NOT display personal profiles publicly
 
-Only shows the unedited text of verified incident reports submitted by users regarding a phone number or plate.
+Does NOT expose private identity data beyond what users voluntarily submit
 
-Does NOT rewrite, modify, or alter reports.
+Does NOT alter, rewrite, or modify report text
 
-Report content is the sole responsibility of the verified user who submitted it.
+Displayed content reflects the exact submission of the reporting user.
 
-6. Intellectual Property
+6. No Affiliation With Ride-Hailing Companies
 
-All branding, technology, user interface designs, and features of TripGuard are the property of TripGuard Intel & Transit Ltd.
+TripGuard is an independent platform.
 
-You agree not to:
+TripGuard:
 
-Copy
+Is not affiliated with, endorsed by, or partnered with Uber, Bolt, Yango, Shaxi, taxi unions, or any transport company
 
-Modify
+Does not access, scrape, extract, or integrate with private databases of ride-hailing platforms
 
-Distribute
+Does not interfere with the internal systems of transport companies
 
-Reverse-engineer
+TripGuard operates independently as a public safety reporting tool.
 
-Exploit or misuse any element of the App
+7. User-Generated Content & Legal Responsibility
 
-without explicit written permission.
+All reports, comments, and submitted materials constitute User-Generated Content (“UGC”).
 
-7. Disclaimers & Limitation of Liability
+Users are solely responsible for:
 
-TripGuard is offered “as is” and “as available.”
-We make no warranties — express or implied — regarding:
+The accuracy of their submissions
+
+The legality of their statements
+
+Any consequences arising from false or defamatory content
+
+TripGuard does not verify report content.
+
+Users who submit false, defamatory, malicious, or harmful reports may be held legally liable under the laws of Ghana.
+
+TripGuard reserves the right to:
+
+Remove content
+
+Suspend accounts
+
+Cooperate with law enforcement
+
+Disclose necessary information when legally required
+
+8. Indemnification
+
+You agree to indemnify, defend, and hold harmless ThirdTap Technologies Limited, its directors, officers, employees, and affiliates from any claims, damages, losses, liabilities, legal fees, or expenses arising from:
+
+Reports you submit
+
+Your misuse of the App
+
+Violation of these Terms
+
+Legal claims brought by third parties due to your content
+
+9. Disclaimers
+
+The App is provided “as is” and “as available.”
+
+TripGuard makes no warranties, express or implied, regarding:
 
 Accuracy of user-generated reports
 
-Availability or uninterrupted operation
+Continuous availability
 
-Suitability for any particular purpose
+Fitness for a particular purpose
 
-TripGuard Intel & Transit Ltd. is not liable for:
+Absence of errors
 
-Damages or losses arising from reliance on community reports
+Users understand that:
 
-False or malicious reporting by users
+Community reports are not official findings
 
-Any disputes between drivers and riders
+The App does not replace law enforcement or regulatory authorities
 
-Technical failures, outages, or third-party errors
+Personal judgment should always be exercised
 
-Misconduct or negligence by users
+10. Limitation of Liability
 
-To the fullest extent permitted under Ghanaian law, TripGuard’s liability is limited to the amount you paid (if any) to use the App.
+To the fullest extent permitted under Ghanaian law:
 
-8. User-Generated Content & Legal Responsibility
+ThirdTap Technologies Limited shall not be liable for:
 
-All reports, comments, and evidence submitted through TripGuard are classified as user-generated content (UGC).
+Decisions made based on user-submitted reports
 
-TripGuard Intel & Transit Ltd. is a passive platform, not a publisher.
+False or malicious reports by users
 
-We do not verify, endorse, or guarantee the truthfulness of user submissions.
+Disputes between drivers and riders
 
-Users who submit false, defamatory, harmful, or malicious reports may be held legally accountable under Ghanaian law.
+Reputational harm
 
-TripGuard reserves the right to cooperate with law enforcement when necessary.
+Loss of income or opportunities
 
-Submitting false allegations or misuse of safety tools may result in:
+Technical failures or outages
 
-Account termination
+If liability is established, it shall not exceed the amount paid by the user (if any) to use the App.
 
-Permanent ban
+11. Account Termination
 
-Legal action from affected persons
-
-Reporting to authorities
-
-9. Road Safety Mission & Platform Purpose
-
-By using TripGuard, you acknowledge and agree that:
-
-The App exists solely to promote safer transportation experiences for drivers, riders, and the general public.
-
-TripGuard provides a structured avenue for users to share first-hand safety experiences and incident reports that may help prevent harm.
-
-TripGuard is not a replacement for police, emergency services, or regulatory transport authorities.
-
-You will use the App’s tools in a manner consistent with the App’s foundational mission: to protect lives, prevent harm, and encourage accountability on Ghana’s roads.
-
-10. Termination
-
-We may suspend or terminate your account if you:
+We may suspend or permanently terminate your account if you:
 
 Violate these Terms
 
-Submit false or harmful reports
+Submit false or malicious reports
 
-Attempt to manipulate or misuse TripGuard’s safety tools
+Attempt to manipulate the reporting system
 
-Endanger other users or expose the Company to legal or security risks
-
-11. Governing Law
+Create legal or reputational risk for the Company
+]
+12. Governing Law
 
 These Terms are governed exclusively by the laws of the Republic of Ghana.
-Any disputes shall be resolved solely in Ghanaian courts.
 
-12. Updates to Terms
+Any disputes shall be resolved solely within the courts of Ghana.
 
-We may update these Terms at any time.
-Continued use of the App after such updates constitutes acceptance of the revised Terms.
+13. Updates to Terms
 
-13. Contact Us
+We may revise these Terms at any time.
 
-If you have questions, concerns, or requests regarding these Terms:
+Continued use of the App after changes constitutes acceptance of the updated Terms.
 
-TripGuard Intel & Transit Ltd.
+14. Contact Information
+
+TripGuard is operated by:
+
+ThirdTap Technologies Limited
+Republic of Ghana
 Email: tripguardapp@gmail.com
