@@ -114,6 +114,7 @@ TripGuard is **not affiliated with, endorsed by, or partnered with** any ride-ha
 * Bolt
 * Yango
 * Shaxi
+* Mijo
 * Taxi unions or transport operators
 
 TripGuard does **not access, scrape, extract, or integrate with private databases** of ride-hailing platforms.
