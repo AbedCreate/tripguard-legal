@@ -1,5 +1,5 @@
 TripGuard – Terms of Use
-Last Updated: [Current Date]
+Last Updated: 26th March, 2026
 
 Welcome to TripGuard.
 
