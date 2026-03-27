@@ -5,7 +5,7 @@ Welcome to TripGuard.
 
 These Terms of Use ("Terms") govern your access to and use of the TripGuard mobile application (the "App").
 
-TripGuard is owned and operated by ThirdTap Technologies Limited, a company incorporated under the laws of the Republic of Ghana (RC Number: [Insert if available]).
+TripGuard is owned and operated by ThirdTap Technologies Limited, a company incorporated under the laws of the Republic of Ghana.
 
 TripGuard exists to promote safer roads and transportation experiences through responsible, community-driven safety reporting.
 
@@ -38,6 +38,7 @@ Submit malicious or harmful content
 Present legal, safety, or reputational risks to the platform
 
 3. Acceptable Use
+   
 Users agree not to:
 
 Use TripGuard for unlawful, fraudulent, or harmful purposes
@@ -55,6 +56,7 @@ All reports must be submitted truthfully, responsibly, and in good faith.
 Misuse of the platform may result in account suspension or termination.
 
 4. Good Faith Reporting and User Liability
+
 4.1 Good Faith Protection
 
 TripGuard encourages users to submit honest, evidence-based reports about safety incidents. Reports submitted in good faith—based on the reporting user's reasonable belief that the information is true and accurate—shall not subject the reporting user to liability toward TripGuard.
@@ -82,6 +84,7 @@ Seek legal advice if uncertain about the truthfulness or legality of a proposed 
 TripGuard does not provide legal advice. Nothing in these Terms constitutes a recommendation or opinion regarding the legal viability of any report.
 
 5. Nature of the Platform
+
 TripGuard is a community safety reporting platform.
 
 TripGuard:
@@ -132,6 +135,7 @@ The presence of a report on TripGuard does not mean TripGuard has confirmed its 
 TripGuard reserves sole discretion in determining whether content violates these Terms. Users may not appeal moderation decisions except as provided in Section 8 (Content Disputes).
 
 7. Content Disputes and Rebuttals
+
 7.1 Dispute Process
 
 If any individual believes that content published on TripGuard is:
@@ -175,6 +179,7 @@ Be published without endorsement or verification by TripGuard
 TripGuard's removal of content or acceptance of rebuttals shall not be construed as an admission that any report was false, defamatory, or unlawful.
 
 8. Data Visibility, Lookup and User Consent
+
 By creating an account and using the App, users acknowledge and consent to the following features.
 
 8.1 Safety Lookups
@@ -216,6 +221,7 @@ Such requests should be submitted to: tripguardapp@gmail.com
 TripGuard reserves the right to deny requests that are manifestly unfounded, excessive, or where retention is required for legal or safety purposes.
 
 9. No Affiliation With Transport Companies
+
 TripGuard is an independent platform.
 
 TripGuard is not affiliated with, endorsed by, or partnered with any ride-hailing or transport companies, including but not limited to:
@@ -237,6 +243,7 @@ TripGuard does not access, scrape, extract, or integrate with private databases 
 TripGuard operates independently as a public safety reporting tool.
 
 10. User-Generated Content and Legal Responsibility
+
 All reports, comments, and submitted materials constitute User-Generated Content ("UGC").
 
 Users are solely and personally responsible for:
@@ -268,7 +275,7 @@ TripGuard processes user data in accordance with applicable laws of the Republic
 
 11.2 Registration
 
-ThirdTap Technologies Limited is registered with the Data Protection Commission of Ghana (Registration Number: [Insert if available]).
+ThirdTap Technologies Limited is registered with the Data Protection Commission of Ghana.
 
 11.3 Separate Privacy Policy
 
@@ -293,6 +300,7 @@ Compliance with legal obligations
 TripGuard retains user data and reports only as long as necessary to fulfill the purposes described in these Terms and the Privacy Policy, or as required by law.
 
 12. Archiving of Reports
+
 TripGuard may periodically remove, archive, or limit the visibility of older reports to ensure that the platform reflects current and relevant safety information.
 
 Archived reports may not remain publicly visible indefinitely.
@@ -306,6 +314,7 @@ Retention is required for legal or safety purposes
 The reporting user requests earlier removal
 
 13. Indemnification
+
 You agree to indemnify and hold harmless ThirdTap Technologies Limited, its directors, officers, employees, and affiliates from any claims, damages, liabilities, losses, legal fees, or expenses arising from:
 
 Reports you submit
@@ -319,6 +328,7 @@ Legal claims brought by third parties due to your content
 This indemnification obligation survives termination of your account.
 
 14. Disclaimers
+
 The App is provided "as is" and "as available."
 
 TripGuard makes no warranties regarding:
@@ -340,6 +350,7 @@ TripGuard does not replace law enforcement, regulatory authorities, or professio
 Users must exercise independent judgment when relying on information
 
 15. Limitation of Liability
+
 To the fullest extent permitted under the laws of the Republic of Ghana, ThirdTap Technologies Limited shall not be liable for:
 
 Decisions made based on user-submitted reports
@@ -358,11 +369,12 @@ If liability is established notwithstanding this limitation, it shall not exceed
 
 The amount paid by the user to access the App in the 12 months preceding the claim, or
 
-GHS 500 (or equivalent), whichever is greater
+GHS 100 (or equivalent), whichever is greater
 
 This limitation of liability reflects the allocation of risk agreed between the parties and forms an essential basis of these Terms.
 
 16. Insurance
+
 TripGuard maintains defamation and cyber liability insurance to protect the platform and its users against certain risks associated with user-generated content.
 
 Users are advised that this insurance does not extend to cover:
@@ -374,6 +386,7 @@ Legal defense costs incurred by users in defamation claims
 Users remain personally responsible for their own legal exposure.
 
 17. Account Termination
+
 TripGuard may suspend or permanently terminate accounts that:
 
 Violate these Terms
@@ -395,9 +408,10 @@ Data will be retained only as required by law
 Users may terminate their own accounts at any time by contacting TripGuard.
 
 18. Governing Law and Dispute Resolution
+
 18.1 Governing Law
 
-These Terms are governed exclusively by the laws of the Republic of Ghana.
+hThese Terms are governed exclusively by the laws of the Republic of Ghana.
 
 18.2 Dispute Resolution
 
@@ -410,9 +424,10 @@ If mediation does not resolve the dispute within 30 days, either party may refer
 The courts of the Republic of Ghana shall have exclusive jurisdiction over any disputes not resolved through mediation.
 
 19. Updates to Terms
+
 TripGuard may revise these Terms at any time.
 
-Material changes will be notified to users through:
+Material changes may be notified to users through:
 
 In-app notification
 
@@ -425,10 +440,11 @@ Continued use of the App after changes are published constitutes acceptance of t
 Users are encouraged to review these Terms periodically.
 
 20. Contact Information
+
 TripGuard is operated by:
 
 ThirdTap Technologies Limited
-Republic of Ghana
+
 Email: tripguardapp@gmail.com
 
 For:
@@ -443,4 +459,4 @@ General inquiries
 
 Please use the email address above.
 
-END OF TERMS
+END OF TERMS.
