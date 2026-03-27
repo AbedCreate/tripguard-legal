@@ -1,244 +1,357 @@
-**TripGuard – Privacy Policy**
+TripGuard – Privacy Policy
+Last Updated: 25th March, 2026
 
-**Last Updated: March 9, 2026**
+ThirdTap Technologies Limited ("we", "our", "us") is committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, store, share, and safeguard information when you use the TripGuard mobile application (the "App").
 
-ThirdTap Technologies Limited (“we”, “our”, “us”) is committed to protecting the privacy and security of your personal information.
+TripGuard is operated by ThirdTap Technologies Limited, a company established under the laws of the Republic of Ghana, registered with the Data Protection Commission of Ghana.
 
-This Privacy Policy explains how we collect, use, store, share, and safeguard information when you use the **TripGuard mobile application (the “App”)**.
+By creating an account or using the App, you acknowledge that you have read and understood this Privacy Policy and agree to the practices described.
 
-TripGuard is operated by **ThirdTap Technologies Limited**, a company established under the laws of the Republic of Ghana.
+1. Definitions
+For the purposes of this Privacy Policy:
 
-By creating an account or using the App, you consent to the practices described in this Privacy Policy.
+"Personal Data" means any information relating to an identified or identifiable natural person, as defined under the Data Protection Act, 2012 (Act 843).
 
----
+"Data Subject" means the individual to whom Personal Data relates.
 
-# 1. Information We Collect
+"Processing" means any operation performed on Personal Data, including collection, storage, use, disclosure, and deletion.
 
+"Verified User" means a user who has created an account and completed identity verification requirements.
+
+2. Information We Collect
 We collect several categories of information to operate and improve TripGuard.
 
-### 1.1 Account Information
-
+2.1 Account Information
 When you create an account, we may collect:
 
-* Full name
-* Phone number
-* Email address
-* Profile photo
-* Chosen role (driver or rider)
+Full name
+
+Phone number
+
+Email address
+
+Profile photo (optional)
+
+Chosen role (driver or rider)
 
 This information helps us verify users and maintain the integrity of the platform.
 
----
+Legal Basis: Performance of contract; Legitimate interests (preventing fraud and fake accounts)
 
-### 1.2 Location Data
+2.2 Location Data
+TripGuard may collect GPS location data when users:
 
-TripGuard may collect **GPS location data** when users:
+Submit safety reports
 
-* submit safety reports
-* trigger caution alerts
-* perform proximity safety checks
+Trigger caution alerts
+
+Perform proximity safety checks
 
 Location information helps provide safety features and context for reported incidents.
 
 Location services may be disabled in your device settings, though some safety features may not function properly without them.
 
----
+Legal Basis: Consent (explicit permission via device settings); Legitimate interests (providing safety features)
 
-### 1.3 Media and Report Evidence
-
+2.3 Media and Report Evidence
 Users may upload supporting evidence when submitting reports, including:
 
-* Photos
-* Videos
-* Audio recordings
-* Documents
-* OCR scans or text extractions
+Photos
+
+Videos
+
+Audio recordings
+
+Documents
+
+OCR scans or text extractions
 
 These materials are used to support safety reports and improve the reliability of submitted information.
 
----
+Legal Basis: Performance of contract; Legitimate interests (ensuring report credibility)
 
-### 1.4 Device and Usage Data
-
+2.4 Device and Usage Data
 We automatically collect certain technical information, including:
 
-* Device identifiers
-* Device model and operating system
-* App activity logs
-* Crash reports
-* Diagnostic data
+Device identifiers (IDFA, Android ID, IMEI where permitted)
+
+Device model and operating system
+
+App activity logs
+
+Crash reports
+
+Diagnostic data
+
+IP address
+
+Timestamps of activity
 
 This information helps us monitor performance, detect abuse, and improve stability.
 
----
+Legal Basis: Legitimate interests (platform security and performance)
 
-### 1.5 Communications and Community Content
-
+2.5 Communications and Community Content
 Users may submit information through:
 
-* Safety reports
-* Comments
-* Forum posts
-* Messages
-* Driver or rider discussions
+Safety reports
+
+Comments
+
+Rebuttals (as provided in the Terms of Use)
+
+Messages (if implemented)
 
 Content submitted through these features may be visible to other verified TripGuard users.
 
----
+Legal Basis: Performance of contract; Legitimate interests (community safety)
 
-# 2. How We Use Your Information
+2.6 Sensitive Personal Data
+Under Ghana's Data Protection Act, 2012 (Act 843), certain categories of data are considered sensitive. TripGuard may collect the following sensitive data only when voluntarily submitted within safety reports:
 
+Allegations of criminal conduct (harassment, assault, robbery)
+
+Information revealing the commission of an offense
+
+Users are expressly warned that submitting such allegations carries legal risks and must be based on good faith and reasonable belief, as set out in the Terms of Use.
+
+Legal Basis: Explicit consent (by voluntarily submitting the report); Substantial public interest (public safety)
+
+3. How We Use Your Information
 We use the information we collect to:
 
-* Operate, maintain, and improve TripGuard services
-* Verify user identity and prevent fraudulent accounts
-* Enable safety alerts and caution systems
-* Process incident reports and community warnings
-* Provide customer support
-* Send safety alerts and important platform notifications
-* Detect abuse or misuse of the platform
-* Improve safety algorithms and system reliability
-* Comply with applicable laws and regulatory requirements in Ghana
+Operate, maintain, and improve TripGuard services
 
-TripGuard does **not use personal data for automated decision-making that produces legal effects without human involvement.**
+Verify user identity and prevent fraudulent accounts
 
----
+Enable safety alerts and caution systems
 
-# 3. Sharing of Information
+Process incident reports and community warnings
 
+Provide customer support
+
+Send safety alerts and important platform notifications
+
+Detect abuse or misuse of the platform
+
+Improve safety algorithms and system reliability
+
+Comply with applicable laws and regulatory requirements in Ghana
+
+Respond to data subject requests
+
+Defend against legal claims
+
+TripGuard does not use personal data for automated decision-making that produces legal effects without human involvement.
+
+4. Lawful Basis for Processing
+Under the Data Protection Act, 2012 (Act 843), we process Personal Data on the following lawful bases:
+
+Processing Activity	Lawful Basis
+Account creation and management	Performance of contract
+Safety report submission and display	Performance of contract; Legitimate interests (public safety)
+Location-based safety features	Consent; Legitimate interests
+Device and usage analytics	Legitimate interests
+Report rebuttals and disputes	Performance of contract; Legitimate interests
+Compliance with legal requests	Legal obligation
+Detection and prevention of abuse	Legitimate interests
+Where processing is based on legitimate interests, we have balanced those interests against your rights and freedoms. You may object to such processing by contacting us.
+
+5. Sharing of Information
 We may share information in the following situations.
 
-### 3.1 Service Providers
-
+5.1 Service Providers
 We use trusted technology providers to operate TripGuard, including:
 
-* Firebase Authentication
-* Firestore Database
-* Google Cloud infrastructure
-* Analytics and crash reporting tools
+Firebase (Authentication, Firestore Database, Cloud Storage, Crashlytics) – Google Ireland Limited
 
-These providers process information **only on our behalf** and in accordance with applicable data protection requirements.
+Google Cloud Platform – Google Ireland Limited
 
----
+Analytics and crash reporting tools
 
-### 3.2 Community Visibility
+These providers process information only on our behalf and in accordance with written data processing agreements that require them to maintain appropriate security safeguards.
 
+5.2 Community Visibility
 Certain information intentionally submitted by users may be visible to other verified TripGuard users, including:
 
-* Safety reports
-* Incident descriptions
-* Forum posts or comments
+Safety reports (vehicle registration numbers, phone numbers, incident descriptions)
 
-TripGuard does **not publicly display personal user profiles** in report lookups.
+Rebuttal statements
 
-Displayed content reflects **text submitted by reporting users**.
+Evidence uploaded in support of reports
 
----
+TripGuard does not publicly display personal user profiles in report lookups. Displayed content reflects text submitted by reporting users.
 
-### 3.3 Legal Requirements
-
+5.3 Legal Requirements
 We may disclose information:
 
-* when required by the laws of the Republic of Ghana
-* during criminal investigations
-* to prevent fraud or threats to public safety
-* to comply with lawful requests from courts or regulators
+When required by the laws of the Republic of Ghana
 
----
+During criminal investigations by law enforcement
 
-### 3.4 No Sale of Personal Data
+To prevent fraud or threats to public safety
 
-TripGuard **does not sell, rent, or trade personal information** to third parties.
+To comply with lawful requests from courts, regulators, or government agencies
 
----
+To enforce our Terms of Use
 
-# 4. Data Security
+5.4 Business Transfers
+If TripGuard or ThirdTap Technologies Limited is acquired, merged, or undergoes a change of control, user data may be transferred as part of that transaction. Affected users will be notified in accordance with Section 9.
 
+5.5 No Sale of Personal Data
+TripGuard does not sell, rent, or trade personal information to third parties.
+
+6. International Data Transfers
+TripGuard uses secure cloud infrastructure provided by global technology providers. As a result, some data may be processed or stored on servers located outside Ghana, including in:
+
+The European Union (Google Cloud servers in [Belgium/Finland/etc.])
+
+The United States
+
+We ensure that such processing follows appropriate data protection safeguards, including:
+
+Data Processing Agreements incorporating Standard Contractual Clauses (SCCs) approved by the European Commission
+
+Ensuring providers maintain equivalent protection to Ghanaian data protection standards
+
+You may request details of these safeguards by contacting us.
+
+7. Data Security
 We apply reasonable technical and organizational safeguards to protect user data, including:
 
-* Firebase Authentication security controls
-* Firestore database access rules
-* Encryption of data in transit
-* Access controls for internal systems
-* Audit logging and monitoring
+Firebase Authentication security controls
 
-While we take appropriate security measures, no online system can guarantee absolute security.
+Firestore database access rules (row-level security)
+
+Encryption of data in transit (TLS 1.2+)
+
+Encryption of data at rest (AES-256)
+
+Access controls for internal systems
+
+Audit logging and monitoring
+
+Regular security reviews
+
+While we take appropriate security measures, no online system can guarantee absolute security. In the event of a data breach affecting your Personal Data, we will notify affected users and the Data Protection Commission of Ghana as required by law.
 
 Users should avoid sharing sensitive personal information unnecessarily.
 
----
-
-# 5. Data Retention
-
+8. Data Retention
 We retain personal information based on operational needs and legal obligations.
 
-Typical retention periods include:
+Data Category	Retention Period
+Account information	Duration of active account + 30 days grace period
+Reports and supporting evidence	12 months from submission, unless: (a) associated with an ongoing dispute, (b) required for legal proceedings, or (c) requested by law enforcement
+Rebuttal statements	Same as associated report
+Location data	30 days from collection
+Device and usage logs	90 days
+Deleted accounts	Data anonymized within 30 days; identifiable data retained only as required by law
+TripGuard may archive older reports to ensure the platform reflects current safety information. Archived reports may not remain publicly visible indefinitely.
 
-* **Account information:** retained while your account remains active
-* **Reports and supporting evidence:** retained for safety review, dispute resolution, and legal compliance
-* **Log and diagnostic data:** retained for security monitoring and system improvement
+Users may request earlier deletion of their personal data as provided in Section 10.
 
-TripGuard may archive older reports to ensure the platform reflects current safety information.
+9. Data Subject Rights
+Under the Data Protection Act, 2012 (Act 843), you have the following rights:
 
----
+9.1 Right to Access
+You may request confirmation of whether we process your Personal Data and, if so, access to that data.
 
-# 6. Children’s Privacy
+9.2 Right to Rectification
+You may request correction of inaccurate or incomplete Personal Data.
 
-TripGuard is intended for users **aged 13 and above**.
+9.3 Right to Erasure (Right to be Forgotten)
+You may request deletion of your Personal Data where:
 
-Users under 13 may only use the App under the supervision of a parent or legal guardian.
+The data is no longer necessary for the purposes for which it was collected
+
+You withdraw consent and no other legal basis exists
+
+The data has been unlawfully processed
+
+Deletion is required to comply with a legal obligation
+
+We may retain data where processing is necessary for legal claims, regulatory compliance, or public safety purposes.
+
+9.4 Right to Restrict Processing
+You may request restriction of processing where you contest accuracy, object to processing, or require data for legal claims.
+
+9.5 Right to Data Portability
+You may request a copy of your Personal Data in a structured, commonly used, machine-readable format.
+
+9.6 Right to Object
+You may object to processing based on legitimate interests, including profiling.
+
+9.7 Right to Withdraw Consent
+Where processing is based on consent, you may withdraw consent at any time. Withdrawal does not affect processing before withdrawal.
+
+9.8 Right to Lodge a Complaint
+You have the right to lodge a complaint with the Data Protection Commission of Ghana at:
+
+Data Protection Commission
+P.O. Box CT 6056, Cantonments, Accra
+Telephone: +233 (0) 302 966 203
+Email: info@dataprotection.org.gh
+
+9.9 Exercising Your Rights
+To exercise these rights, contact:
+
+tripguardapp@gmail.com
+
+We may require identity verification before fulfilling certain requests. We will respond within 30 days of receipt. If requests are manifestly unfounded or excessive, we may charge a reasonable fee or refuse to act.
+
+10. Special Provisions for Searched Individuals
+Individuals whose phone numbers or vehicle registration numbers appear in safety reports have the following additional rights:
+
+10.1 Notification
+TripGuard does not automatically notify individuals when they are named in a report. Searched individuals may discover their inclusion by performing a lookup or upon receiving notice through dispute procedures.
+
+10.2 Dispute and Rebuttal
+As provided in the Terms of Use, individuals who dispute a report may:
+
+Submit a removal request if the report violates these Terms
+
+Submit a rebuttal statement to be displayed alongside the original report
+
+10.3 Correction
+Individuals may request correction of factual inaccuracies in reports where evidence is provided.
+
+11. Children's Privacy
+TripGuard is intended for users aged 13 and above.
+
+Users under 13 may only use the App under the supervision of a parent or legal guardian. If we become aware that we have collected Personal Data from a child under 13 without parental consent, we will delete that data promptly.
 
 Accounts found to belong to children who do not meet the minimum age requirement may be suspended or removed.
 
----
+12. Third-Party Links and Services
+The App may contain links to third-party websites or services (such as emergency service contacts). This Privacy Policy does not apply to those third parties. We encourage you to review their privacy policies before providing any information.
 
-# 7. Your Privacy Rights
+13. Changes to This Privacy Policy
+We may update this Privacy Policy periodically to reflect changes in our practices, technology, legal requirements, or regulatory guidance.
 
-Under applicable laws, including the **Data Protection Act, 2012 (Act 843)**, users may have the right to:
+Material changes will be communicated through:
 
-* Access personal information held about them
-* Correct inaccurate or outdated information
-* Request deletion of their account and associated data
-* Request a copy of their personal data
-* Opt out of non-essential notifications
+In-app notifications
 
-To exercise these rights, contact:
+Email to registered users
 
-**[tripguardapp@gmail.com](mailto:tripguardapp@gmail.com)**
+A prominent notice within the App
 
-We may require identity verification before fulfilling certain requests.
+Non-material changes may be posted without direct notification.
 
----
+The "Last Updated" date at the top of this Privacy Policy will reflect the latest revision. Continued use of TripGuard after updates constitutes acceptance of the revised policy.
 
-# 8. International Data Processing
+14. Contact Information
+If you have questions, concerns, or complaints regarding this Privacy Policy, our data practices, or to exercise your data subject rights, please contact:
 
-TripGuard uses secure cloud infrastructure provided by global technology providers.
-
-As a result, some data may be processed or stored on servers located outside Ghana.
-
-We ensure that such processing follows appropriate data protection safeguards.
-
----
-
-# 9. Changes to This Privacy Policy
-
-We may update this Privacy Policy periodically.
-
-Material updates may be communicated through:
-
-* in-app notifications
-* email alerts
-* announcements within the App
-
-Continued use of TripGuard after updates constitutes acceptance of the revised policy.
-
----
-
-# 10. Contact Information
-
-If you have questions, concerns, or complaints regarding this Privacy Policy, please contact:
-
-**ThirdTap Technologies Limited**
+ThirdTap Technologies Limited
 Republic of Ghana
+Email: tripguardapp@gmail.com
 
-Email: **[tripguardapp@gmail.com](mailto:tripguardapp@gmail.com)**
+Data Protection Officer (DPO):
+For data protection-specific inquiries, please use the same email address with the subject line: "ATTN: Data Protection Officer"
+
+15. Acknowledgment
+By using TripGuard, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your Personal Data as described herein.
+
+END OF PRIVACY POLICY
