@@ -83,7 +83,7 @@ Being the owner and operator of the TripGuard mobile application ("TripGuard App
 ………………………………………………………………………
 (hereinafter referred to as "the Ambassador")
 
-A private c.ontent creator.
+A private content creator.
 
 Effective Date: 01/06/2026
 
@@ -133,7 +133,7 @@ Driver Ambassador Pool (20%)	GHS 20,000
 Total points earned by all Ambassadors	10,000
 Your points	500
 Your estimated payout	(500 ÷ 10,000) × 20,000 = GHS 1,000
-Important: Actual earnings depend on platform performance, your activity level, and the total points earned by all Ambassadors. The Company does not guarantee any minimum payment.
+Important: Actual earnings depend on platform performance, your activity level, and the total points earned by all Ambassadors.
 
 ## 5. SCOPE OF RESPONSIBILITIES
 The Ambassador agrees to:
@@ -331,10 +331,6 @@ Agreed to the terms freely and voluntarily
 | Signature | __________________________ |
 | Date | __________________________ |
 
-Name	__________________________
-Title	__________________________
-Signature	______________________
-Date	__________________________
 ### Ambassador
 
 | Field | Entry |
@@ -344,17 +340,12 @@ Date	__________________________
 | Date | __________________________ |
 | Phone / Email | __________________________ |
 
-Name	__________________________
-Signature	______________________
-Date	__________________________
-Phone / Email	____________________
 ## Appendix A – Summary of Point Categories
 Activity	Points	Key Conditions
 Verified Signup via Referral Code	1	Anti-fraud pass; no duplicate/fake accounts
 Qualified Check	0.1	Genuine, non-automated, non-repetitive
 Admin-Approved Report	2	Moderator approval required
-Admin-Approved Rebuttal	2	Moderator approval required
-Note: The Company reserves the right to adjust, invalidate, or discount any points for fraudulent, abusive, or artificial activity, acting reasonably and in good faith to ensure fair distribution among honest participants.
+Admin-Approved Rebuttal	2	Moderator approval required.
 
 END OF AGREEMENT
 
