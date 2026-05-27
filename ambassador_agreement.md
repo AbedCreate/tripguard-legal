@@ -1,16 +1,38 @@
----
-title: "TripGuard Driver Ambassadorial Agreement"
-company: "ThirdTap Technologies Limited"
-effective_date: "2026-06-01"
-document_type: "Legal Agreement"
----
+# TripGuard Driver Ambassadorial Agreement
 
-TripGuard Driver Ambassadorial Agreement
-# THIRDTAP TECHNOLOGIES LIMITED
+**THIRDTAP TECHNOLOGIES LIMITED**
 
-## TripGuard Driver Ambassadorial Agreement
+---
 
 ## Table of Contents
+1. [Purpose](#purpose)
+2. [Role & Appointment](#role--appointment)
+3. [Eligibility](#eligibility)
+4. [Ambassador Benefits & Compensation Overview](#ambassador-benefits--compensation-overview)
+5. [Scope of Responsibilities](#scope-of-responsibilities)
+6. [Contribution Scoring Framework](#contribution-scoring-framework)
+7. [Payment Structure](#payment-structure)
+8. [Participation Requirements](#participation-requirements)
+9. [Code of Conduct](#code-of-conduct)
+10. [Confidentiality](#confidentiality)
+11. [Intellectual Property](#intellectual-property)
+12. [Independent Contractor Relationship](#independent-contractor-relationship)
+13. [Amendments](#amendments)
+14. [Termination](#termination)
+15. [Dispute Resolution](#dispute-resolution)
+16. [Governing Law](#governing-law)
+17. [Definitions](#definitions)
+18. [Acceptance](#acceptance)
+19. [Appendix A – Summary of Point Categories](#appendix-a-–-summary-of-point-categories)
+
+---
+
+> **Legal Notice:** This document is a legally binding agreement between ThirdTap Technologies Limited and the Ambassador.
+
+TripGuard Driver Ambassadorial Agreement
+THIRDTAP TECHNOLOGIES LIMITED
+
+Table of Contents
 Purpose
 
 Role & Appointment
@@ -61,17 +83,17 @@ Being the owner and operator of the TripGuard mobile application ("TripGuard App
 ………………………………………………………………………
 (hereinafter referred to as "the Ambassador")
 
-An online ride-hailing driver and content creator.
+A private c.ontent creator.
 
-**Effective Date:** 01/06/2026
+Effective Date: 01/06/2026
 
 ## 1. PURPOSE
 This Agreement establishes a partnership-oriented relationship under which the Ambassador will support the growth, visibility, adoption, and ecosystem activity of the TripGuard App — a platform enabling users to check and report drivers and riders to improve safety, accountability, and transparency within Ghana's transport ecosystem.
 
-### The Ambassador Program is designed to reward meaningful contribution while protecting the integrity of the platform for all users.
+The Ambassador Program is designed to reward meaningful contribution while protecting the integrity of the platform for all users.
 
 ## 2. ROLE & APPOINTMENT
-### The Company appoints the Ambassador as a TripGuard Driver Ambassador, a non-exclusive, independent promotional role.
+The Company appoints the Ambassador as a TripGuard Driver Ambassador, a non-exclusive, independent promotional role.
 
 What this means for you:
 
@@ -88,7 +110,7 @@ Participation in the Ambassador Program is voluntary and subject to continued el
 ## 3. ELIGIBILITY
 Participation in the Driver Ambassador Program is open to active online ride-hailing drivers who are verified by the Company.
 
-### The Company reserves the right to approve, reject, suspend, or remove any participant where necessary to protect platform integrity, acting reasonably and with prior notice where practicable.
+The Company reserves the right to approve, reject, suspend, or remove any participant where necessary to protect platform integrity, acting reasonably and with prior notice where practicable.
 
 ## 4. AMBASSADOR BENEFITS & COMPENSATION OVERVIEW
 As a TripGuard Driver Ambassador, you can earn by helping grow a safer transport ecosystem.
@@ -100,7 +122,7 @@ Qualified check by a user you referred	0.1 point
 Admin-approved report	2 points
 Admin-approved rebuttal	2 points
 How the Pool Works
-### The Company allocates up to 20% of Qualifying Platform Earnings to a Driver Ambassador Pool, distributed among eligible Ambassadors based on points earned.
+The Company allocates up to 20% of Qualifying Platform Earnings to a Driver Ambassador Pool, distributed among eligible Ambassadors based on points earned.
 
 Illustrative Example (Non-Binding)
 This example is for illustration only and does not guarantee any payment.
@@ -111,10 +133,10 @@ Driver Ambassador Pool (20%)	GHS 20,000
 Total points earned by all Ambassadors	10,000
 Your points	500
 Your estimated payout	(500 ÷ 10,000) × 20,000 = GHS 1,000
-Important: Actual earnings depend on platform performance, your activity level, and the total points earned by all Ambassadors. ### The Company does not guarantee any minimum payment.
+Important: Actual earnings depend on platform performance, your activity level, and the total points earned by all Ambassadors. The Company does not guarantee any minimum payment.
 
 ## 5. SCOPE OF RESPONSIBILITIES
-### The Ambassador agrees to:
+The Ambassador agrees to:
 
 Promote awareness and adoption of the TripGuard App among drivers and riders.
 
@@ -140,12 +162,12 @@ Qualified Check	0.1 Point	Awarded when a referred or attributed user performs a 
 Admin-Approved Report	2 Points	Awarded only after a submitted report has been reviewed and formally approved by the Company's moderation systems. Reports rejected as false, duplicate, malicious, unverifiable, spam, or abusive shall not qualify.
 Admin-Approved Rebuttal	2 Points	Awarded only after a submitted rebuttal has been reviewed and formally approved by the Company's moderation systems.
 ### 6.2 How Your Points Are Tracked
-### The Company maintains internal records of your referrals, checks, reports, and rebuttals. Where reasonably practicable, the Company may provide performance summaries or dashboards to help you understand your progress.
+The Company maintains internal records of your referrals, checks, reports, and rebuttals. Where reasonably practicable, the Company may provide performance summaries or dashboards to help you understand your progress.
 
 If you believe there is an error in your point records, you may raise the issue with the Company, which will review it in good faith.
 
 ### 6.3 Protection Against Abuse
-### The Company actively protects the program against fraud. ### The Company may reject, discount, or invalidate points from activity that is:
+The Company actively protects the program against fraud. The Company may reject, discount, or invalidate points from activity that is:
 
 Repetitive, artificial, or excessive
 
@@ -159,7 +181,7 @@ These protections ensure fair distribution for all honest Ambassadors.
 
 ## 7. PAYMENT STRUCTURE
 ### 7.1 Distribution Frequency
-### The Company shall communicate the applicable distribution structure (monthly or quarterly) in advance through official channels.
+The Company shall communicate the applicable distribution structure (monthly or quarterly) in advance through official channels.
 
 ### 7.2 Payment Timing
 Payments shall be made within:
@@ -175,7 +197,7 @@ Below threshold	Rolls over to the next period
 ### 7.4 Payment Method
 Payments may be made through mobile money, bank transfer, or any method designated by the Ambassador.
 
-7.5 Mid-Termination Proration
+### 7.5 Mid-Termination Proration
 If this Agreement is terminated before a payment period ends, the Ambassador remains eligible for a pro-rated share based on valid points earned up to the termination date, payable at the next distribution cycle.
 
 ## 8. PARTICIPATION REQUIREMENTS
@@ -183,35 +205,35 @@ If this Agreement is terminated before a payment period ends, the Ambassador rem
 Continued participation requires active and consistent contribution. Ambassadors who become inactive for thirty (30) consecutive days may be suspended or removed after notice.
 
 ### 8.2 Minimum Standards
-Any minimum participation standards (e.g., minimum points or posts) shall be communicated to Ambassadors in advance through official channels. ### The Company will not apply unpublished standards retroactively.
+Any minimum participation standards (e.g., minimum points or posts) shall be communicated to Ambassadors in advance through official channels. The Company will not apply unpublished standards retroactively.
 
 ### 8.3 Right to Remove Inactive Participants
-### The Company reserves the right to remove participants who fail to meet minimum requirements, acting reasonably and in good faith.
+The Company reserves the right to remove participants who fail to meet minimum requirements, acting reasonably and in good faith.
 
 ## 9. CODE OF CONDUCT
 ### 9.1 Accuracy and Honesty
-### The Ambassador shall not publish false, fabricated, manipulated, or misleading information concerning incidents, users, drivers, riders, or the TripGuard App.
+The Ambassador shall not publish false, fabricated, manipulated, or misleading information concerning incidents, users, drivers, riders, or the TripGuard App.
 
 ### 9.2 Privacy and Defamation
-### The Ambassador shall not:
+The Ambassador shall not:
 
 Defame, harass, doxx, or unlawfully target individuals
 
 Disclose sensitive information (phone numbers, vehicle numbers, personal identifiers) without anonymisation, unless legally permitted or publicly available through authorised platform functionality
 
-### The Ambassador shall comply with the Data Protection Act, 2012 (Act 843) of Ghana.
+The Ambassador shall comply with the Data Protection Act, 2012 (Act 843) of Ghana.
 
 ### 9.3 Responsible Promotion
-### The Ambassador shall present TripGuard accurately as a safety and reporting platform and shall not make unrealistic guarantees or deceptive claims.
+The Ambassador shall present TripGuard accurately as a safety and reporting platform and shall not make unrealistic guarantees or deceptive claims.
 
 ### 9.4 Platform Rules
-### The Ambassador shall comply with applicable community guidelines of TikTok, Instagram, Facebook, X (Twitter), and other digital platforms.
+The Ambassador shall comply with applicable community guidelines of TikTok, Instagram, Facebook, X (Twitter), and other digital platforms.
 
 ### 9.5 Breach Consequences
-Any breach of this Code of Conduct may result in suspension, removal from the program, point invalidation, loss of distribution eligibility, or termination of this Agreement. ### The Company shall act reasonably in applying these consequences.
+Any breach of this Code of Conduct may result in suspension, removal from the program, point invalidation, loss of distribution eligibility, or termination of this Agreement. The Company shall act reasonably in applying these consequences.
 
 ## 10. CONFIDENTIALITY
-### The Ambassador shall not disclose the Company's confidential or non-public information, including internal strategies, scoring systems, operational data, earnings methodologies, analytics, moderation systems, or business plans, without prior written consent.
+The Ambassador shall not disclose the Company's confidential or non-public information, including internal strategies, scoring systems, operational data, earnings methodologies, analytics, moderation systems, or business plans, without prior written consent.
 
 This obligation survives termination for two (2) years.
 
@@ -220,23 +242,23 @@ Your content remains your property.
 
 You grant the Company a non-exclusive, worldwide, royalty-free license to repost, distribute, share, and use your content for promotional purposes with appropriate credit where reasonably practicable.
 
-### The Company retains all intellectual property rights in the TripGuard App, branding, systems, trademarks, software, and analytics.
+The Company retains all intellectual property rights in the TripGuard App, branding, systems, trademarks, software, and analytics.
 
 ## 12. INDEPENDENT CONTRACTOR RELATIONSHIP
-### The Ambassador acts solely as an independent contractor.
+The Ambassador acts solely as an independent contractor.
 
 You are solely responsible for your own taxes, insurance, regulatory compliance, and legal obligations.
 
 ## 13. AMENDMENTS
-### The Company may update this Agreement to reflect program evolution, fraud prevention needs, or legal requirements.
+The Company may update this Agreement to reflect program evolution, fraud prevention needs, or legal requirements.
 
 For Material Changes
-### The Company will provide notice via email, WhatsApp, in-app notification, or other official channels.
+The Company will provide notice via email, WhatsApp, in-app notification, or other official channels.
 
 You may terminate participation within thirty (30) days of a material amendment if you disagree with the updated terms.
 
 For Operational Changes
-### The Company may adjust scoring weights, payout structures, or program features as needed to maintain fairness and platform integrity.
+The Company may adjust scoring weights, payout structures, or program features as needed to maintain fairness and platform integrity.
 
 ## 14. TERMINATION
 ### 14.1 Term
@@ -246,7 +268,7 @@ This Agreement commences on the Effective Date and continues until terminated by
 Either party may terminate this Agreement at any time, with or without cause, upon seven (7) days' written notice.
 
 ### 14.3 Immediate Termination by the Company
-### The Company may terminate immediately without notice for:
+The Company may terminate immediately without notice for:
 
 Misconduct or misrepresentation
 
@@ -282,10 +304,10 @@ Hosting and infrastructure costs	Office rent
 Refunds, reversals, and chargebacks	Legal fees
 Administrative overhead
 Unrelated operational expenses
-### The Company shall calculate Qualifying Platform Earnings in good faith and maintain internal supporting records.
+The Company shall calculate Qualifying Platform Earnings in good faith and maintain internal supporting records.
 
 ### 17.2 Force Majeure
-### The Company shall not be liable for delays or failure to perform obligations due to events beyond reasonable control, including natural disasters, internet outages, government actions, platform restrictions, cybersecurity incidents, or third-party service failures.
+The Company shall not be liable for delays or failure to perform obligations due to events beyond reasonable control, including natural disasters, internet outages, government actions, platform restrictions, cybersecurity incidents, or third-party service failures.
 
 ### 17.3 Entire Agreement
 This Agreement, including Appendix A, constitutes the complete understanding between the parties and supersedes prior oral or written understandings relating to the Ambassador Program.
@@ -299,28 +321,42 @@ Understood their rights and obligations
 
 Agreed to the terms freely and voluntarily
 
-## SIGNATURE PAGE
-FOR # THIRDTAP TECHNOLOGIES LIMITED
+## Signature Page
+### For ThirdTap Technologies Limited
 
-## TripGuard Driver Ambassadorial Agreement
-Field	Entry
+| Field | Entry |
+|---|---|
+| Name | __________________________ |
+| Title | __________________________ |
+| Signature | __________________________ |
+| Date | __________________________ |
+
 Name	__________________________
 Title	__________________________
 Signature	______________________
 Date	__________________________
-AMBASSADOR
-Field	Entry
+### Ambassador
+
+| Field | Entry |
+|---|---|
+| Name | __________________________ |
+| Signature | __________________________ |
+| Date | __________________________ |
+| Phone / Email | __________________________ |
+
 Name	__________________________
 Signature	______________________
 Date	__________________________
 Phone / Email	____________________
-## APPENDIX A – SUMMARY OF POINT CATEGORIES
+## Appendix A – Summary of Point Categories
 Activity	Points	Key Conditions
 Verified Signup via Referral Code	1	Anti-fraud pass; no duplicate/fake accounts
 Qualified Check	0.1	Genuine, non-automated, non-repetitive
 Admin-Approved Report	2	Moderator approval required
 Admin-Approved Rebuttal	2	Moderator approval required
-Note: ### The Company reserves the right to adjust, invalidate, or discount any points for fraudulent, abusive, or artificial activity, acting reasonably and in good faith to ensure fair distribution among honest participants.
+Note: The Company reserves the right to adjust, invalidate, or discount any points for fraudulent, abusive, or artificial activity, acting reasonably and in good faith to ensure fair distribution among honest participants.
+
+END OF AGREEMENT
 
 ---
 
